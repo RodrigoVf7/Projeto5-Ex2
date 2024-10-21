@@ -10,6 +10,12 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
+    /*
+     *@author: RODRIGO VINICIUS FERRAZ DA SILVA
+     *@RA: 1110482313043
+     */
+
+
     private EditText editTextBits;
     private TextView textViewResultado;
 
